@@ -2,7 +2,7 @@
 #include <iostream>
 #include <fstream>
 #include <sstream>
-#include "picojson.h"
+#include "../picojson.h"
 
 
 int main() {
